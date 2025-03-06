@@ -1,0 +1,137 @@
+div.scrollmenu {
+    background-color: #5e57c9;
+    overflow: auto;
+    white-space: nowrap;
+    text-align: center;
+    border: #777;
+  }
+  
+  div.scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+  
+  div.scrollmenu a:hover {
+    background-color: #777;
+  }
+  .h2p{
+     color: #9daaa7;
+  }
+  .h4p{
+      color: rgb(204, 56, 45);
+  }
+  .h5p{
+      color: rgb(5, 107, 107);
+  }
+  .ul{
+    margin-bottom: 50px;
+    margin-top: -10px;
+  }
+  .body{
+      background-color: rgb(169, 240, 178);
+  }
+  .h1{
+    background-color: blue;
+    color: beige;
+    margin: 0;
+    font-size: 2.5em;
+  }
+  .boody{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 600px;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    text-align: justify;
+    align-items: center;
+  }
+  
+  #momentos{
+    font-family: 'Times New Roman';
+    font-size: 16px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 600px;
+    text-align: justify;
+    
+  }
+  #dive{
+    text-align: center;
+  }
+  #causas{
+    font-family: 'Times New Roman' ;
+    font-size: 16px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 600px;
+    text-align: justify;
+    align-items: center;
+  }
+  #consequências{
+    font-family: 'Times New Roman';
+    font-size: 16px;
+    text-align: center;
+    text-align: justify;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 600px;
+    
+  }
+
+  .azul{
+    color:white;
+    background-color: rgb(176, 189, 247);
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    
+  }
+
+  .branco{
+    background-color: rgb(176, 189, 247);
+    
+  }
+  
+  .topico{
+    color: rgb(150, 87, 4);
+  }
+
+  .footer{
+    color:white;
+    background-color: rgb(176, 189, 247);
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    
+    font-size: 16px;
+    font-family: arial;
+    
+  }
+
+  .h3p{
+    text-align: justify;
+
+  }
+
+.header{
+  background-color:rgb(176, 189, 247) ;
+  padding: 20px 0;
+  text-align: center;
+  align-items: center;
+}
